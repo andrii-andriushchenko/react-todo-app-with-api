@@ -6,7 +6,7 @@ Getting Started To get started with the application, you can simply visit the de
 
 Usage To use the Todo application, simply enter a task into the input field at the top of the page and press "Enter" or click the "Add" button. To mark a task as completed, click the checkbox next to the task. To edit or delete a task, click the corresponding icons on the right side of the task.
 
-API The application uses an API to manage the Todo data. The API is built using Node.js and Express.
+The application uses an API to manage the Todo data. The API is built using Node.js and Express.
 
 The API has the following endpoints:
 
